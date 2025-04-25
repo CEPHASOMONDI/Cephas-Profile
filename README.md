@@ -1,6 +1,7 @@
 # Cephas Omondi
 <title>Cephas Omondi - Portfolio</title>
- <style> body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; } header { background-color: #333; color: white; text-align: center; padding: 20px; display: flex; align-items: center; justify-content: center; } .profile-pic { width: 100px; height: 100px; border-radius: 50%; margin-right: 20px; } .container { width: 80%; margin: auto; overflow: hidden; } section { padding: 20px; background: white; margin: 20px 0; border-radius: 5px; } footer { text-align: center; padding: 10px; background: #333; color: white; }</style>
+ <style> body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; } header { background-color: #333; color: white; text-align: center; padding: 20px; display: flex; align-items: center; justify-content: center; } .profile-pic { width: 100px; height: 100px; border-radius: 50%; margin-right: 20px; } .container { width: 80%; margin: auto; overflow: hidden; } section { padding: 20px; background: white; margin: 20px 0; border-radius: 5px; } footer { text-align: center; padding: 10px; background: #333; color: white; } 
+ </style>
 <div class="container">
     <section>
         <h2>About Me</h2>
@@ -23,10 +24,10 @@
     
     <section>
         <h2>Education</h2>
-        <p>Degree</p>
-        <p>Bachelor of Science in Health Records and Information Management, Rongo University, September 2020 – April 2024, Migori. </p><br>
-        <p>KCSE</p>
-        <p>Kenya Certificate of Secondary Education Wang’apala High School, February 2016 – November 2019, Homa-Bay.</p>
+        <p>Degree - <b>(September 2020 – April 2024)</b></p><hr>
+        <p>Bachelor of Science in Health Records and Information Management, Rongo University, Migori. </p><br>
+        <p>KCSE - <b>(February 2016 – November 2019)</b></p><hr>
+        <p>Kenya Certificate of Secondary Education Wang’apala High School, Homa-Bay.</p>
     </section>
     
     <section>
