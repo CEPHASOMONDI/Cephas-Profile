@@ -35,7 +35,7 @@
         <ul>
                 <li>Training on Covid 19 response, data collection and reporting data into Chanjo Health System, April 2022.</li>
                 <li>Leadership Management and Governance for Health Systems Strengthening Course, Feb 2021.</li>
-                <li>  Online HIV tools M&E Training- University of Nairobi/NASCOP, June 2018.</li>
+                <li>  Online HIV tools M&E Training- University of Nairobi/NASCOP, June 2023.</li>
                 <li>  Kenya Health Information System (DHIS2) MOH Virtual Academy.</li> 
                 <li>Kenya Master Health Facility List – E-Learning Course MOH Virtual Academy.</li> 
                 <li> KenyaEMR + Course - Level I MOH Virtual Academy.</li> 
