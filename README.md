@@ -19,7 +19,8 @@
     <section>
         <h2>Experience</h2>
         <ul>
-	    <li><strong>Health Records Officer</strong> - Chulaimbo Sub County Hospital Kisumu (September 2024 – Present)</li>
+	    <li><strong>Health Records Officer</strong> - Oasis Health Doctors Plaza Migori (May 2025 – Present)</li>
+	    <li><strong>Health Records Officer</strong> - Chulaimbo Sub County Hospital Kisumu (September 2024 – April 2025)</li>
             <li><strong>Health Records Intern</strong> - Kisumu County Referral Hospital Kisumu (May 2024 – June 2024)</li>
             <li><strong>Health Records Attachee</strong> - St. Josephs Mission Hospital Migori (January 2023 – April 2023)</li>
             <li><strong>Health Records Attachee</strong> - Asumbi Mission Hospital Homa-Bay (April 2022 – September 2022 )</li>
