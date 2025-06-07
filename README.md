@@ -7,7 +7,7 @@
 </header>
  <style> body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; } header { background-color: #333; color: white; text-align: center; padding: 20px; display: flex; align-items: center; justify-content: center; } .profile-pic { width: 100px; height: 100px; border-radius: 50%; margin-right: 20px; } .container { width: 80%; margin: auto; overflow: hidden; } section { padding: 20px; background: white; margin: 20px 0; border-radius: 5px; } footer { text-align: center; padding: 10px; background: #333; color: white; } 
  </style>
-<div class="container">
+<div class="paragraph-block">
     <section>
         <h2>About Me</h2>
         <p>A flexible and dynamic Health Records and Information Manager (HRIM) professional with over 2 years of experience,
