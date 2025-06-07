@@ -7,16 +7,14 @@
 </header>
  <style> body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; } header { background-color: #333; color: white; text-align: center; padding: 20px; display: flex; align-items: center; justify-content: center; } .profile-pic { width: 100px; height: 100px; border-radius: 50%; margin-right: 20px; } . paragraph { width: 80%; margin: auto; overflow: hidden; } section { padding: 20px; background: white; margin: 20px 0; border-radius: 5px; } footer { text-align: center; padding: 10px; background: #333; color: white; } 
  </style>
-
+<div class="paragraph-block">
     <section>
         <h2>About Me</h2>
-	<div class="paragraph-block">
         <p>A flexible and dynamic Health Records and Information Manager (HRIM) professional with over 2 years of experience,
 	 eager to contribute my expertise to the role of Health Management Information Systems Manager (HMIS) to promote patients’ satisfaction while maximizing profitability. 
 	 Proficient in gathering and analyzing health data, excel at serving as a central point for health program information. 
 	 Adept at active participation in HMIS cluster coordination meetings and technical working groups, ensuring accurate and timely monthly report submissions. 
 	 Well-versed in linking reports to the DHIS2 platform, facilitating capacity building for healthcare providers and data clerks, all while maintaining compliance with International Health Regulations 2005 (IHR 2005).</p>
-  </div>
     </section>
     
     <section>
