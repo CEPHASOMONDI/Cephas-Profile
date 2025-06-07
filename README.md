@@ -1,4 +1,4 @@
-# CEPHAS OMONDI  <br>Health Records and Information Manager.
+# <br>Health Records and Information Manager.
 <title>Cephas Omondi - Portfolio</title>
 <header>
   <img src="cephas.jpg" alt="Cephas Omondi" class="profile-pic">
