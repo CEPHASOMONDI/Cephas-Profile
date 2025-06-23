@@ -77,11 +77,7 @@
         </ul>
     </section>
     
-    <hide><section>
-        <h2>Contact</h2>
-        <p>Email: <a href="mailto:cephasomondi610@gmail.com">cephasomondi610@gmail.com</a></p>
-        <p>Phone: +254 795775218</p></hide>
-	<section id="contact">
+   	<section id="contact">
   <h2>Contact</h2>
   <p><strong>Email:</strong> <a href="mailto:cephasomondi610@gmail.com">cephasomondi610@gmail.com</a></p>
   <p><strong>Phone:</strong> +254 795 775 218</p>
