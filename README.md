@@ -92,7 +92,7 @@
   </form>
 </section>
 
-    </section>
+    
 </div>
 
 <footer>
