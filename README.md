@@ -77,10 +77,25 @@
         </ul>
     </section>
     
-    <section>
+    <hide><section>
         <h2>Contact</h2>
         <p>Email: <a href="mailto:cephasomondi610@gmail.com">cephasomondi610@gmail.com</a></p>
-        <p>Phone: +254 795775218</p>
+        <p>Phone: +254 795775218</p></hide>
+	<section id="contact">
+  <h2>Contact</h2>
+  <p><strong>Email:</strong> <a href="mailto:cephasomondi610@gmail.com">cephasomondi610@gmail.com</a></p>
+  <p><strong>Phone:</strong> +254 795 775 218</p>
+
+  <h3>Send Me a Message</h3>
+  <form action="https://formsubmit.co/cephasomondi610@gmail.com" method="POST" style="display: flex; flex-direction: column; gap: 12px; max-width: 600px;">
+    <input type="text" name="name" placeholder="Your Name" required style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;" />
+    <input type="email" name="email" placeholder="Your Email" required style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;" />
+    <input type="text" name="_subject" placeholder="Subject" required style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;" />
+    <textarea name="message" placeholder="Your Message" rows="5" required style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;"></textarea>
+    <button type="submit" style="padding: 10px 20px; background-color: #007BFF; color: white; border: none; border-radius: 5px; cursor: pointer;">Send Message</button>
+  </form>
+</section>
+
     </section>
 </div>
 
