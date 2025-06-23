@@ -98,6 +98,20 @@
 
     
 </div>
+<div style="margin-top: 20px; text-align: center;">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank" style="margin: 0 10px; color: #0e76a8;">
+    <i class="fab fa-linkedin fa-2x"></i>
+  </a>
+  <a href="https://wa.me/254795775218" target="_blank" style="margin: 0 10px; color: #25D366;">
+    <i class="fab fa-whatsapp fa-2x"></i>
+  </a>
+  <a href="https://www.facebook.com/YOUR-FACEBOOK-USERNAME" target="_blank" style="margin: 0 10px; color: #1877F2;">
+    <i class="fab fa-facebook fa-2x"></i>
+  </a>
+  <a href="https://twitter.com/YOUR-TWITTER-HANDLE" target="_blank" style="margin: 0 10px; color: #1DA1F2;">
+    <i class="fab fa-twitter fa-2x"></i>
+  </a>
+</div>
 
 <footer>
     <p>&copy; 2025 Cephas Omondi. All Rights Reserved.</p>
